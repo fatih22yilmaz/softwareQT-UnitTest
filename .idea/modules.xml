@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_initial/simpleUnitTesting (1).iml" filepath="$PROJECT_DIR$/1_initial/simpleUnitTesting (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_mocking/simpleUnitTesting (2).iml" filepath="$PROJECT_DIR$/2_mocking/simpleUnitTesting (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_mockingFixed/simpleUnitTesting (3).iml" filepath="$PROJECT_DIR$/3_mockingFixed/simpleUnitTesting (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_SpringTestingIntroducedWithMVC/simpleUnitTesting (4).iml" filepath="$PROJECT_DIR$/4_SpringTestingIntroducedWithMVC/simpleUnitTesting (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_SpringTestingIntroducedDBTestingWithFailingTest/simpleUnitTesting (5).iml" filepath="$PROJECT_DIR$/5_SpringTestingIntroducedDBTestingWithFailingTest/simpleUnitTesting (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_SpringDBTestingCompleted/simpleUnitTesting (6).iml" filepath="$PROJECT_DIR$/6_SpringDBTestingCompleted/simpleUnitTesting (6).iml" />
+    </modules>
+  </component>
+</project>
